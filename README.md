@@ -1,6 +1,6 @@
 imeji-skin
 ==========
 
-HU - IKB skin for imeji 
+imeji specific styles for IKB - HU Berlin 
 
 http://imeji-mediathek.de
